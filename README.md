@@ -1,4 +1,4 @@
-### Hi there! My name is Cam Poole, a front-end web developer 🤠
+### Hi there! My name is <a href="https://cameron-edek-poole.netlify.app" target="_blank">Cam Poole</a>, a front-end web developer 🤠
 <img src="https://media.giphy.com/media/wzJ67MJMk6UMM/giphy.gif" height="190" />
 
 
