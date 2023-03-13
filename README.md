@@ -1,4 +1,4 @@
-### Hi there! My name is <a href="https://cameron-edek-poole.netlify.app" target="_blank">Cam Poole</a>, a front-end web developer 🤠
+### Hello there! My name is <a href="https://cameron-edek-poole.netlify.app" target="_blank">Cam Poole</a>, a front-end web developer 🤠
 <img src="https://media.giphy.com/media/wzJ67MJMk6UMM/giphy.gif" height="190" />
 
 
@@ -6,7 +6,7 @@
 - Website: https://cameron-edek-poole.netlify.app 
 - Email: cameron.edek.poole@gmail.com
 
-#### 🖥️ Technologies:
+#### ⚡ Technologies:
 <p>
   <img src="https://www.svgrepo.com/show/452228/html-5.svg" height="32" />
   <img src="https://www.svgrepo.com/show/452185/css-3.svg" height="32" />
