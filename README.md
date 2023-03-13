@@ -1,4 +1,22 @@
-### Hi there 👋
+### Hi there! My name is Cam Poole, a front-end web developer 🤠
+<img src="https://media.giphy.com/media/wzJ67MJMk6UMM/giphy.gif" height="190" />
+
+
+#### 📫 How to reach me:
+- Website: https://cameron-edek-poole.netlify.app 
+- Email: cameron.edek.poole@gmail.com
+
+#### 🖥️ Technologies:
+<p>
+  <img src="https://www.svgrepo.com/show/452228/html-5.svg" height="32" />
+  <img src="https://www.svgrepo.com/show/452185/css-3.svg" height="32" />
+  <img src="https://www.svgrepo.com/show/353498/bootstrap.svg" height="32" />
+  <img src="https://www.svgrepo.com/show/353925/javascript.svg" height="32" />
+  <img src="https://www.svgrepo.com/show/452242/jquery.svg" height="32" />
+  <img src="https://www.svgrepo.com/show/452092/react.svg" height="32" />
+  <img src="https://www.svgrepo.com/show/354119/nodejs-icon.svg" height="32" />
+  <img src="https://www.svgrepo.com/show/452077/npm.svg" height="32" />
+</p>
 
 ![Snake animation](https://github.com/cedekpoole/cedekpoole/blob/output/github-contribution-grid-snake.svg)
 
