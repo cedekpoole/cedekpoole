@@ -1,5 +1,8 @@
+<img align="right" src="https://visitor-badge.laobi.icu/badge?page_id=cedekpoole.cedekpoole">
+
 ### Hello there! My name is <a href="https://cameron-edek-poole.netlify.app" target="_blank">Cam Poole</a>, a front-end web developer 🤠
 <img src="https://media.giphy.com/media/wzJ67MJMk6UMM/giphy.gif" height="190" />
+
 
 
 #### 📫 How to reach me:
@@ -17,6 +20,9 @@
   <img src="https://www.svgrepo.com/show/354119/nodejs-icon.svg" height="32" />
   <img src="https://www.svgrepo.com/show/452077/npm.svg" height="32" />
 </p>
+
+---
+<a href="https://github.com/cedekpoole" alt="https://github.com/cedekpoole"><img src="https://img.shields.io/static/v1?style=for-the-badge&label=CREATED%20BY&message=cedekpoole&color=000000"></a>
 
 ![Snake animation](https://github.com/cedekpoole/cedekpoole/blob/output/github-contribution-grid-snake.svg)
 
