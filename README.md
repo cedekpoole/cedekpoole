@@ -27,7 +27,7 @@
 <a href="https://github.com/cedekpoole" alt="https://github.com/cedekpoole"><img src="https://img.shields.io/static/v1?style=for-the-badge&label=CREATED%20BY&message=cedekpoole&color=000000"></a>
 
 <!-- Snake animation - Website: https://github.com/Platane/snk -->
-![Snake animation](https://github.com/cedekpoole/cedekpoole/blob/output/github-contribution-grid-snake.svg)
+<img src="https://raw.githubusercontent.com/cedekpoole/cedekpoole/snake/github-contribution-grid-snake-dark.svg" width="100%">
 
 <!--
 **cedekpoole/cedekpoole** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
