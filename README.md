@@ -3,7 +3,7 @@
 ### Hello there! My name is <a href="https://cameron-edek-poole.netlify.app" target="_blank">Cam Poole</a>, a front-end web developer 🤠
 <img src="https://media.giphy.com/media/wzJ67MJMk6UMM/giphy.gif" height="190" />
 
-<code><a href="https://www.linkedin.com/in/cam-edek-poole/" title="LinkedIn Profile"><img width="22" src="https://www.svgrepo.com/show/448234/linkedin.svg"> LinkedIn</a></code>
+<a href="https://www.linkedin.com/in/cam-edek-poole"><img src="https://img.shields.io/badge/LinkedIn--_.svg?style=social&logo=linkedin" alt="LinkedIn"></a>
 
 
 #### 📫 How to reach me:
