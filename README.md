@@ -23,9 +23,11 @@
   <img src="https://www.svgrepo.com/show/452077/npm.svg" height="32" />
 </p>
 
----
-<a href="https://github.com/cedekpoole" alt="https://github.com/cedekpoole"><img src="https://img.shields.io/static/v1?style=for-the-badge&label=CREATED%20BY&message=cedekpoole&color=000000"></a>
+<!-- Jokes API - Website: https://github.com/ABSphreak/readme-jokes -->
+![Jokes Card](https://readme-jokes.vercel.app/api)
 
+---
+<a href="https://github.com/cedekpoole" alt="https://github.com/cedekpoole"><img align="right" src="https://img.shields.io/static/v1?style=for-the-badge&label=CREATED%20BY&message=cedekpoole&color=000000"></a>
 <!-- Snake animation - Website: https://github.com/Platane/snk -->
 <img src="https://raw.githubusercontent.com/cedekpoole/cedekpoole/snake/github-contribution-grid-snake-dark.svg" width="100%">
 
