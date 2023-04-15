@@ -20,7 +20,7 @@
   <img src="https://www.svgrepo.com/show/452242/jquery.svg" height="32" />
   <img src="https://www.svgrepo.com/show/452092/react.svg" height="32" />
   <img src="https://www.svgrepo.com/show/354119/nodejs-icon.svg" height="32" />
-  <img src="https://www.svgrepo.com/show/452077/npm.svg" height="32" />
+  <img src="https://www.svgrepo.com/show/452077/npm.svg" height="42" />
 </p>
 
 #### 🤓 Currently learning:
@@ -28,6 +28,7 @@
   <img src="https://www.svgrepo.com/show/354431/tailwindcss-icon.svg" height="32" />
   <img src="https://www.svgrepo.com/show/374146/typescript-official.svg" height="32" />
   <img src="https://www.svgrepo.com/show/452093/redux.svg" height="32" />
+  <img src="https://global.discourse-cdn.com/standard17/uploads/threejs/original/2X/b/be2f75f72751c11cbe1593c69a99a52900bf12cb.svg" height="32" />
 </p>
 
 #### 🪐 I want to learn: 
@@ -37,6 +38,7 @@
   <img src="https://www.svgrepo.com/show/439231/mongodb.svg" height="32" />
   <img src="https://avatars.githubusercontent.com/u/7552965?s=200&v=4" height="32" />
   <img src="https://www.svgrepo.com/show/452091/python.svg" height="32" />
+  <img src="https://seeklogo.com/images/C/c-sharp-c-logo-02F17714BA-seeklogo.com.png" height="32" />
 </p>
 
 <!-- Jokes API - Website: https://github.com/ABSphreak/readme-jokes -->
