@@ -7,7 +7,7 @@
 
 
 #### 📫 How to reach me:
-- Website: https://cameron-edek-poole.netlify.app 
+- Website: https://cedekpoole.com
 - Email: cameron.edek.poole@gmail.com
 
 #### ⚡ Technologies:
