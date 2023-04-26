@@ -10,6 +10,9 @@
 - Website: https://cedekpoole.com
 - Email: cameron.edek.poole@gmail.com
 
+#### 📕 Check out my blog :)
+- Blog: https://webdev-blog-cedekpoole.vercel.app
+
 #### ⚡ Technologies:
 <p>
   <img src="https://www.svgrepo.com/show/452228/html-5.svg" height="32" />
