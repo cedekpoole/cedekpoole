@@ -23,6 +23,7 @@
   <img src="https://www.svgrepo.com/show/353925/javascript.svg" height="32" />
   <img src="https://www.svgrepo.com/show/452242/jquery.svg" height="32" />
   <img src="https://www.svgrepo.com/show/452092/react.svg" height="32" />
+  <img src="https://avatars.githubusercontent.com/u/17177659?s=200&v=4" height="32" />
   <img src="https://www.svgrepo.com/show/354119/nodejs-icon.svg" height="32" />
   <img src="https://www.svgrepo.com/show/452077/npm.svg" height="42" />
 </p>
@@ -32,7 +33,6 @@
   <img src="https://www.svgrepo.com/show/374146/typescript-official.svg" height="32" />
   <img src="https://www.svgrepo.com/show/452093/redux.svg" height="32" />
   <img src="https://d2nir1j4sou8ez.cloudfront.net/wp-content/uploads/2021/12/nextjs-boilerplate-logo.png" height="32" />
-  <img src="https://avatars.githubusercontent.com/u/17177659?s=200&v=4" height="32" />
 </p>
 
 #### 🪐 I want to learn: 
