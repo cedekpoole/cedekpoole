@@ -7,7 +7,7 @@
 
 
 #### 📫 How to reach me:
-- Website: https://cedekpoole.com
+- Website: https://www.cedekpoole.com
 - Email: cameron.edek.poole@gmail.com
 
 #### 📕 Check out my blog :)
