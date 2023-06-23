@@ -30,6 +30,9 @@
 
 #### 🤓 Currently learning:
 <p>
+  <img src="https://i2.wp.com/www.mementotech.in/assets/images/icons/express.png" height="32" />
+  <img src="https://www.svgrepo.com/show/439231/mongodb.svg" height="32" />
+  <img src="https://avatars.githubusercontent.com/u/7552965?s=200&v=4" height="32" />
   <img src="https://www.svgrepo.com/show/374146/typescript-official.svg" height="32" />
   <img src="https://www.svgrepo.com/show/452093/redux.svg" height="32" />
   <img src="https://d2nir1j4sou8ez.cloudfront.net/wp-content/uploads/2021/12/nextjs-boilerplate-logo.png" height="32" />
@@ -37,9 +40,6 @@
 
 #### 🪐 I want to learn: 
 <p>
-  <img src="https://i2.wp.com/www.mementotech.in/assets/images/icons/express.png" height="32" />
-  <img src="https://www.svgrepo.com/show/439231/mongodb.svg" height="32" />
-  <img src="https://avatars.githubusercontent.com/u/7552965?s=200&v=4" height="32" />
   <img src="https://www.svgrepo.com/show/452091/python.svg" height="32" />
   <img src="https://seeklogo.com/images/C/c-sharp-c-logo-02F17714BA-seeklogo.com.png" height="32" />
   <img src="https://global.discourse-cdn.com/standard17/uploads/threejs/original/2X/b/be2f75f72751c11cbe1593c69a99a52900bf12cb.svg" height="32" />
