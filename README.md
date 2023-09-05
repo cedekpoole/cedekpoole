@@ -30,12 +30,11 @@
 
 #### 🤓 Currently learning:
 <p>
-  <img src="https://i2.wp.com/www.mementotech.in/assets/images/icons/express.png" height="32" />
-  <img src="https://www.svgrepo.com/show/439231/mongodb.svg" height="32" />
-  <img src="https://avatars.githubusercontent.com/u/7552965?s=200&v=4" height="32" />
   <img src="https://www.svgrepo.com/show/374146/typescript-official.svg" height="32" />
   <img src="https://www.svgrepo.com/show/452093/redux.svg" height="32" />
   <img src="https://d2nir1j4sou8ez.cloudfront.net/wp-content/uploads/2021/12/nextjs-boilerplate-logo.png" height="32" />
+  <img src="https://upload.wikimedia.org/wikipedia/commons/thumb/1/17/GraphQL_Logo.svg/1024px-GraphQL_Logo.svg.png?20161105194737" height="32" />
+  <img src="https://cdn.freebiesupply.com/logos/large/2x/highcharts-logo-png-transparent.png" height="32" />
 </p>
 
 #### 🪐 I want to learn: 
@@ -46,6 +45,9 @@
   <img src="https://icons-for-free.com/iconfiles/png/512/vscode+icons+type+light+prisma-1324451365475006031.png" height="42" />
   <img src="https://www.freepnglogos.com/uploads/logo-mysql-png/logo-mysql-mysql-logo-png-images-are-download-crazypng-21.png" height="42" />
   <img src="https://astro.build/assets/press/astro-icon-light.svg" height="32" />
+  <img src="https://i2.wp.com/www.mementotech.in/assets/images/icons/express.png" height="32" />
+  <img src="https://www.svgrepo.com/show/439231/mongodb.svg" height="32" />
+  <img src="https://avatars.githubusercontent.com/u/7552965?s=200&v=4" height="32" />
 </p>
 
 <!-- Jokes API - Website: https://github.com/ABSphreak/readme-jokes -->
