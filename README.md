@@ -1,16 +1,16 @@
 <img align="right" src="https://visitor-badge.laobi.icu/badge?page_id=cedekpoole.cedekpoole">
 
-### Hello there! My name is <a href="https://cameron-edek-poole.netlify.app" target="_blank">Cam Poole</a>, a front-end web developer 🤠
+## Hello there! My name is <a href="https://www.cedekpoole.com/" target="_blank">Cam Poole</a>, a front-end web developer 🤠
 <img src="https://media.giphy.com/media/wzJ67MJMk6UMM/giphy.gif" height="190" />
 
 <a href="https://www.linkedin.com/in/cam-edek-poole"><img src="https://img.shields.io/badge/LinkedIn--_.svg?style=social&logo=linkedin" alt="LinkedIn"></a>
 
 
-#### 📫 How to reach me:
+### 📫 How to reach me:
 - Website: https://www.cedekpoole.com
 - Email: cameron.edek.poole@gmail.com
 
-#### 📕 Check out my blog :)
+### 📕 Check out my blog :)
 - Blog: https://webdev-blog-cedekpoole.vercel.app
 
 #### ⚡ Technologies:
