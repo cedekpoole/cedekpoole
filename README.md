@@ -1,54 +1,30 @@
 <img align="right" src="https://visitor-badge.laobi.icu/badge?page_id=cedekpoole.cedekpoole">
 
-## Hello there! My name is <a href="https://www.cedekpoole.com/" target="_blank">Cam Poole</a>, a front-end web developer 🤠
+**Hello there! My name is <a href="https://www.cedekpoole.com/" target="_blank">Cam Poole</a>, a front-end web developer 🤠**
+</br>
+<p >
 <img src="https://media.giphy.com/media/wzJ67MJMk6UMM/giphy.gif" height="190" />
+</p>
 
 <a href="https://www.linkedin.com/in/cam-edek-poole"><img src="https://img.shields.io/badge/LinkedIn--_.svg?style=social&logo=linkedin" alt="LinkedIn"></a>
 
+```yaml
+name: Cameron Poole
+located_in: London
+job: Front-End Software Developer
+education: First in Philosophy (Newcastle University)
+tehnologies: ["HTML", "CSS", "Bootstrap", "TailwindCSS", "JavaScript", "jQuery", "React", "Node.js"]
+currently_learning: ["HighCharts", "GraphQL"]
+will_learn: ["Backend", "Python", "C#"]
+```
 
-### 📫 How to reach me:
+
+**📫 How to reach me:**
 - Website: https://www.cedekpoole.com
 - Email: cameron.edek.poole@gmail.com
 
-### 📕 Check out my blog :)
+**📕 Check out my blog :)**
 - Blog: https://webdev-blog-cedekpoole.vercel.app
-
-#### ⚡ Technologies:
-<p>
-  <img src="https://www.svgrepo.com/show/452228/html-5.svg" height="32" />
-  <img src="https://www.svgrepo.com/show/452185/css-3.svg" height="32" />
-  <img src="https://www.svgrepo.com/show/353498/bootstrap.svg" height="32" />
-  <img src="https://www.svgrepo.com/show/354431/tailwindcss-icon.svg" height="32" />
-  <img src="https://www.svgrepo.com/show/452210/git.svg" height="32" />
-  <img src="https://www.svgrepo.com/show/353925/javascript.svg" height="32" />
-  <img src="https://www.svgrepo.com/show/452242/jquery.svg" height="32" />
-  <img src="https://www.svgrepo.com/show/452092/react.svg" height="32" />
-  <img src="https://avatars.githubusercontent.com/u/17177659?s=200&v=4" height="32" />
-  <img src="https://www.svgrepo.com/show/354119/nodejs-icon.svg" height="32" />
-  <img src="https://www.svgrepo.com/show/452077/npm.svg" height="42" />
-</p>
-
-#### 🤓 Currently learning:
-<p>
-  <img src="https://www.svgrepo.com/show/374146/typescript-official.svg" height="32" />
-  <img src="https://www.svgrepo.com/show/452093/redux.svg" height="32" />
-  <img src="https://d2nir1j4sou8ez.cloudfront.net/wp-content/uploads/2021/12/nextjs-boilerplate-logo.png" height="32" />
-  <img src="https://upload.wikimedia.org/wikipedia/commons/thumb/1/17/GraphQL_Logo.svg/1024px-GraphQL_Logo.svg.png?20161105194737" height="32" />
-  <img src="https://cdn.freebiesupply.com/logos/large/2x/highcharts-logo-png-transparent.png" height="32" />
-</p>
-
-#### 🪐 I want to learn: 
-<p>
-  <img src="https://www.svgrepo.com/show/452091/python.svg" height="32" />
-  <img src="https://seeklogo.com/images/C/c-sharp-c-logo-02F17714BA-seeklogo.com.png" height="32" />
-  <img src="https://global.discourse-cdn.com/standard17/uploads/threejs/original/2X/b/be2f75f72751c11cbe1593c69a99a52900bf12cb.svg" height="32" />
-  <img src="https://icons-for-free.com/iconfiles/png/512/vscode+icons+type+light+prisma-1324451365475006031.png" height="42" />
-  <img src="https://www.freepnglogos.com/uploads/logo-mysql-png/logo-mysql-mysql-logo-png-images-are-download-crazypng-21.png" height="42" />
-  <img src="https://astro.build/assets/press/astro-icon-light.svg" height="32" />
-  <img src="https://i2.wp.com/www.mementotech.in/assets/images/icons/express.png" height="32" />
-  <img src="https://www.svgrepo.com/show/439231/mongodb.svg" height="32" />
-  <img src="https://avatars.githubusercontent.com/u/7552965?s=200&v=4" height="32" />
-</p>
 
 <!-- Jokes API - Website: https://github.com/ABSphreak/readme-jokes -->
 ![Jokes Card](https://readme-jokes.vercel.app/api)
