@@ -13,9 +13,9 @@ name: Cameron Poole
 located_in: London
 job: Front-End Software Developer
 education: First in Philosophy (Newcastle University)
-tehnologies: ["HTML", "CSS", "Bootstrap", "TailwindCSS", "JavaScript", "jQuery", "React", "Node.js"]
-currently_learning: ["HighCharts", "GraphQL"]
-will_learn: ["Backend", "Python", "C#"]
+tehnologies: ["HTML", "CSS", "Bootstrap", "TailwindCSS", "JavaScript", "jQuery", "React", "HighCharts"]
+currently_learning: ["Node.js", "Redux", "MongoDB", "Express"]
+will_learn: ["Backend", GraphQL", "Python", "C#"]
 ```
 
 
