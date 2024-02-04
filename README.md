@@ -12,7 +12,7 @@
 name: Cameron Poole
 located_in: London
 job: Front-End Software Developer
-education: First in Philosophy (Newcastle University)
+education: Bachelor's Degree in Philosophy (First Class Honours) | Newcastle University
 tehnologies: ["HTML", "CSS", "Bootstrap", "TailwindCSS", "JavaScript", "jQuery", "React", "HighCharts"]
 currently_learning: ["Node.js", "Redux", "MongoDB", "Express"]
 will_learn: ["Backend", GraphQL", "Python", "C#"]
