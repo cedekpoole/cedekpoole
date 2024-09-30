@@ -12,11 +12,11 @@
 name: Cameron Poole
 located_in: London
 job: Front-End Software Developer
-interned_at: Goodwright (creating software for scientists)
+interned_at: Goodwright Ltd (creating software for scientists)
 education: Bachelor's Degree in Philosophy (First Class Honours) | Newcastle University
-tehnologies: ["HTML", "CSS", "Bootstrap", "TailwindCSS", "JavaScript", "jQuery", "React", "HighCharts"]
-currently_learning: ["Node.js", "Redux", "MongoDB", "Express"]
-will_learn: ["Backend", GraphQL", "Python", "C#"]
+tehnologies: ["HTML", "CSS", "Bootstrap", "TailwindCSS", "JavaScript", "React.js", "HighCharts"]
+currently_learning: ["Node.js", "Redux", "MongoDB", "Express", "Next.js"]
+will_learn: ["Backend", GraphQL", "Python"]
 ```
 
 
