@@ -14,7 +14,7 @@ located_in: London
 job: Front-End Software Developer
 interned_at: Goodwright Ltd (creating software for scientists)
 education: Bachelor's Degree in Philosophy (First Class Honours) | Newcastle University
-tehnologies: ["HTML + CSS", "TailwindCSS", "JavaScript", "React.js", "HighCharts"]
+tehnologies: ["HTML + CSS", "JavaScript", "TailwindCSS", "React.js", "HighCharts"]
 currently_learning: ["Node.js", "Redux", "MongoDB", "Express", "Next.js"]
 will_learn: ["Backend", GraphQL", "Python"]
 ```
