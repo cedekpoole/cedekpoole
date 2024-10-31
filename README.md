@@ -15,8 +15,8 @@ job: Front-End Software Developer
 interned_at: Goodwright Ltd
 education: Bachelor's Degree in Philosophy (First Class Honours) | Newcastle University
 tehnologies: ["HTML + CSS", "JavaScript", "TailwindCSS", "React.js", "HighCharts"]
-currently_learning: ["Node.js", "Redux", "MongoDB", "Express", "Next.js"]
-will_learn: ["Backend", GraphQL", "Python"]
+currently_learning: ["Advanced React", "Redux", "Next.js"]
+will_learn: ["Node.js", "MongoDB", "Express", "GraphQL", "Python"]
 ```
 
 
