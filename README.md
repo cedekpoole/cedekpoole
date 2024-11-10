@@ -16,7 +16,7 @@ interned_at: Goodwright Ltd
 education: Bachelor's Degree in Philosophy (First Class Honours) | Newcastle University
 tehnologies: ["HTML + CSS", "JavaScript", "TailwindCSS", "React.js", "HighCharts"]
 currently_learning: ["Advanced React", "Redux", "Next.js", "React Query"]
-will_learn: ["Node.js", "MongoDB", "Express", "GraphQL", "Python"]
+will_learn: ["React Native", "GraphQL", "Python"]
 ```
 
 
