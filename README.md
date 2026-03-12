@@ -13,9 +13,9 @@ name: Cameron Poole
 located_in: London
 job: Data Scientist | Front-End Developer
 interned_at: Goodwright Ltd
-education: MSc Data Science (Kingston University) | BA Philosophy (First Class - Newcastle University)
+education: MSc Data Science (Kingston) | BA Philosophy (1st - Newscastle)
 tehnologies: ["Python", "R", "JavaScript", "TailwindCSS", "React.js"]
-currently_learning: ["Convolutional Neural Networks", "Big Data Management", "Classical Machine Learning"]
+currently_learning: ["Convolutional Neural Networks", "Big Data Management"]
 will_learn: ["Advanced Data Engineering", "More maths lol"]
 ```
 
