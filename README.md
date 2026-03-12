@@ -11,17 +11,17 @@
 ```yaml
 name: Cameron Poole
 located_in: London
-job: Front-End Software Developer
+job: Data Scientist | Front-End Developer
 interned_at: Goodwright Ltd
-education: Bachelor's Degree in Philosophy (First Class Honours) | Newcastle University
-tehnologies: ["HTML + CSS", "JavaScript", "TailwindCSS", "React.js", "HighCharts"]
-currently_learning: ["Advanced React", "Redux", "Next.js", "React Query"]
-will_learn: ["React Native", "GraphQL", "Python"]
+education: MSc Data Science (Kingston University) | BA Philosophy (First Class - Newcastle University)
+tehnologies: ["Python", "R", "JavaScript", "TailwindCSS", "React.js"]
+currently_learning: ["Convolutional Neural Networks", "Big Data Management", "Classical Machine Learning"]
+will_learn: ["Advanced Data Engineering", "More maths lol"]
 ```
 
 
 **📫 How to reach me:**
-- Website: https://www.cedekpoole.com
+- Website: https://www.edek-design.com
 - Email: cameron.edek.poole@gmail.com
 
 **📕 Check out my blog :)**
