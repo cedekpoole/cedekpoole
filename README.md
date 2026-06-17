@@ -1,8 +1,8 @@
 <img align="right" src="https://visitor-badge.laobi.icu/badge?page_id=cedekpoole.cedekpoole">
 
-**Hi, I'm <a href="https://www.cedekpoole.com/" target="_blank">Cam Poole</a> — I build reliable data pipelines, models, and metrics. 📊**
+**Hi, I'm <a href="https://www.cedekpoole.com/" target="_blank">Cam Poole</a> — Full Time MSc Data Science student moving into data analytics & analytics engineering. 📊**
  
-MSc Data Science candidate (Kingston, 2026), BA Philosophy (1st, Newcastle). I focus on the engineering and analysis side of data — turning messy operational data into datasets and metrics an organisation can depend on. Looking for analyst, analytics engineering, or junior data engineering roles in London.
+Completing an MSc Data Science at Kingston University (September 2026), following a BA Philosophy (1st, Newcastle). I work with SQL and Python, and have front-end software development experience. I've built web apps and published open-source npm packages - I'm comfortable writing, testing, and version-controlling real code. I'm now moving into data: deepening my SQL and picking up dbt, data modelling, and cloud while I build out a data portfolio.
  
 <a href="https://www.linkedin.com/in/cam-edek-poole"><img src="https://img.shields.io/badge/LinkedIn--_.svg?style=social&logo=linkedin" alt="LinkedIn"></a>
  
@@ -11,16 +11,14 @@ name: Cameron Poole
 location: London, UK
 focus: Data Analyst | Analytics Engineer | Junior Data Engineer
 education: MSc Data Science (Kingston, 2026) | BA Philosophy (1st, Newcastle)
-core_stack: ["SQL", "Python", "dbt", "data modelling (Kimball / star schemas)", "Azure", "BigQuery"]
-also_build_with: ["React", "JavaScript", "TailwindCSS"]   # handy for data apps & dashboards
-currently_building: "TfL London transport analytics mart (in progress)"
+working_with: ["SQL", "Python", "Git"]
+eng_background: ["JavaScript", "TypeScript", "React"]   # shipped web apps + published npm packages
+learning_next: ["dbt", "data modelling (Kimball / star schemas)", "Azure", "BigQuery"]
 seeking: "Analyst / analytics engineering / junior data engineering roles — London, hybrid"
 ```
  
-**📌 Featured project — in progress**
-- **TfL London Transport Analytics Mart** — production-style ELT pipeline: Python ingestion → Azure Blob (raw JSON) → BigQuery → dbt (staging → intermediate → marts, tests on every model) → scheduled GitHub Action. README with architecture diagram and design decisions. _Link coming soon._
-
-  
+**Up next:** building a data portfolio, starting with a TfL London transport analytics project (Python → dbt → cloud warehouse). I'll pin repos here as they land.
+ 
 **📫 How to reach me**
 - Website: https://www.cedekpoole.com
 - Email: cameron.edek.poole@gmail.com
