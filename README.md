@@ -2,7 +2,7 @@
 
 **Hi, I'm <a href="https://www.cedekpoole.com/" target="_blank">Cam Poole</a> — Full Time MSc Data Science student moving into data analytics & analytics engineering. 📊**
  
-Completing an MSc Data Science at Kingston University (September 2026), following a BA Philosophy (1st, Newcastle). I work with SQL and Python, and have front-end software development experience. I've built web apps and published open-source npm packages - I'm comfortable writing, testing, and version-controlling real code. I'm now moving into data: deepening my SQL and picking up dbt, data modelling, and cloud while I build out a data portfolio.
+Completing an MSc Data Science at Kingston University (September 2026), following a BA Philosophy degree (1st, Newcastle). I work with SQL and Python, and have front-end software development experience. I've built web apps and published open-source npm packages - I'm comfortable writing, testing, and version-controlling real code. I'm now moving into data: deepening my SQL and picking up dbt, data modelling, and cloud warehousing while I build out a data portfolio.
  
 <a href="https://www.linkedin.com/in/cam-edek-poole"><img src="https://img.shields.io/badge/LinkedIn--_.svg?style=social&logo=linkedin" alt="LinkedIn"></a>
  
