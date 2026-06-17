@@ -24,7 +24,6 @@ seeking: "Analyst / analytics engineering / junior data engineering roles — Lo
 **📫 How to reach me**
 - Website: https://www.cedekpoole.com
 - Email: cameron.edek.poole@gmail.com
-- Blog: https://webdev-blog-cedekpoole.vercel.app
 ---
  
 <a href="https://github.com/cedekpoole" alt="https://github.com/cedekpoole"><img align="right" src="https://img.shields.io/static/v1?style=for-the-badge&label=CREATED%20BY&message=cedekpoole&color=000000"></a>
