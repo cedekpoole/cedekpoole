@@ -27,7 +27,7 @@ seeking: "Analyst / analytics engineering / junior data engineering roles — Lo
 **Up next:** building a data portfolio, starting with a TfL London transport analytics project (Python → dbt → cloud warehouse). I'll pin repos here as they land.
  
 **📫 How to reach me**
-- Website: https://www.cedekpoole.com
+- Website: https://cedekpoole-website.vercel.app/
 - Email: cameron.edek.poole@gmail.com
 ---
  
