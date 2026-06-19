@@ -24,7 +24,7 @@ learning_next: ["dbt", "data modelling (Kimball / star schemas)", "Azure", "BigQ
 seeking: "Analyst / analytics engineering / junior data engineering roles — London, hybrid"
 ```
  
-**Up next:** building a data portfolio, starting with a TfL London transport analytics project (Python → dbt → cloud warehouse). I'll pin repos here as they land.
+**Up next:** building a data portfolio, starting with a TfL London transport analytics project (Python → dbt → cloud warehouse). I'll pin repos here when completed.
  
 **📫 How to reach me**
 - Website: https://cedekpoole-website.vercel.app/
