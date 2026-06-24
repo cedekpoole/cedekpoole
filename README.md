@@ -24,7 +24,7 @@ learning_next: ["dbt", "data modelling (Kimball / star schemas)", "Azure", "BigQ
 seeking: "Analyst / analytics engineering / junior data engineering roles — London, hybrid"
 ```
  
-**Up next:** building a data portfolio, starting with a TfL London transport analytics project (Python → dbt → cloud warehouse). I'll pin repos here when completed.
+**Current project:** Building a TfL transport analytics pipeline. The Python ingestion layer now fetches and validates live Tube status data, saves timestamped JSON snapshots locally, and uploads them securely to private Azure Blob Storage. Next: BigQuery, dbt modelling, and GitHub Actions automation.
  
 **📫 How to reach me**
 - Website: https://cedekpoole-website.vercel.app/
