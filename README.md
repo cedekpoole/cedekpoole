@@ -2,7 +2,7 @@
 
 <h2>Hi, I'm Cameron Poole | MSc Data Science student | Looking for Junior Data Engineer / Analytics Engineering / Analytics roles | London 📊</h2>
  
-Completing an MSc Data Science at Kingston University (September 2026), following a BA Philosophy degree (1st, Newcastle). I work with SQL and Python, and have front-end software development experience. I've built web apps and published open-source npm packages - I'm comfortable writing, testing, and version-controlling real code. I'm now moving into data: deepening my SQL and picking up dbt, data modelling, and cloud warehousing while I build out a data portfolio.
+Completing an MSc Data Science at Kingston University (September 2026), following a BA Philosophy degree (1st, Newcastle). I work with SQL and Python, and have front-end software development experience. I've built web apps and published open-source npm packages - I'm comfortable writing, testing, and version-controlling real code. I'm now moving into data: deepening my SQL and picking up dbt, data modelling and cloud warehousing while I build out a data portfolio.
 
 MSc Data Science Modules: 
 1. Applied Data Programming | 30 credits | Grade: 81/100 - 1st
