@@ -6,8 +6,8 @@ Completing an MSc Data Science at Kingston University (September 2026), followin
 
 MSc Data Science Modules: 
 1. Applied Data Programming | 30 credits | Grade: 81/100 - 1st
-2. Data Analytics and Visualisation | 30 credits | Grade: 98/100 - 1st
-3. Machine Learning and Deep Learning | 30 credits | Grade: 81/100 - 1st
+2. Data Analytics and Visualisation | 30 credits | Grade: 99/100 - 1st
+3. Machine Learning and Deep Learning | 30 credits | Grade: 82/100 - 1st
 4. Databases and Data Management | 30 credits | Grade: 96/100 - 1st
 5. Dissertation | 30 credits | Grade: Ongoing
  
