@@ -25,10 +25,10 @@ seeking: "Analyst / analytics engineering / junior data engineering roles — Lo
 ```
  
 **Current project:** 
-- Building a UK carbon intensity analytics pipeline using public electricity carbon intensity data. Currently focusing on local Python ingestion and pytest coverage. Planned next steps: Snowflake loading, dbt-snowflake modelling, Prefect orchestration and an analytics dashboard.
+Building a UK carbon intensity analytics pipeline using public electricity carbon intensity data. Currently focusing on local Python ingestion and pytest coverage. Planned next steps: Snowflake loading, dbt-snowflake modelling, Prefect orchestration and an analytics dashboard.
 
 **Recently completed:**
-- Built a TfL transport analytics pipeline using Python, Azure Blob Storage, BigQuery, dbt, and GitHub Actions. The project ingests live Tube status data from the TfL API, validates and snapshots raw JSON responses, uploads data to private cloud storage, loads it into BigQuery and builds analytics-ready dbt models. To do: build a dashboard once more historical data has been ingested. 
+Built a TfL transport analytics pipeline using Python, Azure Blob Storage, BigQuery, dbt, and GitHub Actions. The project ingests live Tube status data from the TfL API, validates and snapshots raw JSON responses, uploads data to private cloud storage, loads it into BigQuery and builds analytics-ready dbt models. To do: build a dashboard once more historical data has been ingested. 
  
 **📫 How to reach me**
 - Website: https://cedekpoole-website.vercel.app/
