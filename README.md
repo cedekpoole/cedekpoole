@@ -25,7 +25,10 @@ seeking: "Analyst / analytics engineering / junior data engineering roles — Lo
 ```
  
 **Current project:** 
- - Building a TfL transport analytics pipeline. The Python ingestion layer now fetches and validates live Tube status data, saves timestamped JSON snapshots locally, and uploads them securely to private Azure Blob Storage. Next: BigQuery, dbt modelling, and GitHub Actions automation (NOW COMPLETED)
+- Building a UK carbon intensity analytics pipeline using public electricity carbon intensity data. Currently focusing on local Python ingestion and pytest coverage. Planned next steps: Snowflake loading, dbt-snowflake modelling, Prefect orchestration and an analytics dashboard.
+
+**Recently completed:**
+
  
 **📫 How to reach me**
 - Website: https://cedekpoole-website.vercel.app/
