@@ -30,8 +30,8 @@ Building a UK carbon intensity analytics pipeline using public electricity carbo
 
 **Recently completed:**
 
-Built a TfL transport analytics pipeline using Python, Azure Blob Storage, BigQuery, dbt, and GitHub Actions. The project ingests live Tube status data from the TfL API, validates and snapshots raw JSON responses, uploads data to private cloud storage, loads it into BigQuery and builds analytics-ready dbt models. To do: build a dashboard once more historical data has been ingested. 
- 
+Built a TfL transport analytics pipeline using Python, Azure Blob Storage, BigQuery, dbt, and GitHub Actions. The project ingests live Tube status data from the TfL API, validates and snapshots raw JSON responses, uploads data to private cloud storage, loads it into BigQuery and builds analytics-ready dbt models. 
+
 **📫 How to reach me**
 - Website: https://cedekpoole-website.vercel.app/
 - Email: cameron.edek.poole@gmail.com
