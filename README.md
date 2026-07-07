@@ -16,11 +16,17 @@ MSc Data Science Modules:
 ```yaml
 name: Cameron Poole
 location: London, UK
-focus: Data Analyst | Analytics Engineer | Junior Data Engineer
-education: MSc Data Science (Kingston, 2026) | BA Philosophy (1st, Newcastle)
-working_with: ["SQL", "Python", "Git"]
-eng_background: ["JavaScript", "TypeScript", "React"]   # shipped web apps + published npm packages
-learning_next: ["dbt", "data modelling (Kimball / star schemas)", "Azure", "BigQuery"]
+focus: "Data Analyst | Analytics Engineer | Junior Data Engineer"
+education: "MSc Data Science (Kingston, 2026) | BA Philosophy (1st, Newcastle)"
+
+core_stack: ["SQL", "Python", "Git"]
+analytics_engineering: ["dbt", "data modelling", "Kimball", "star schemas"]
+data_platforms: ["Azure", "BigQuery"]
+
+eng_background: ["JavaScript", "TypeScript", "React"] # shipped web apps + published npm packages
+
+learning_next: ["Snowflake warehouse loading", "dbt-snowflake analytics models", "Prefect orchestration"]
+
 seeking: "Analyst / analytics engineering / junior data engineering roles — London, hybrid"
 ```
  
