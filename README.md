@@ -70,7 +70,7 @@ seeking: "Entry-level data roles — London, hybrid preferred"
 
 **Current project**
 
-Building a UK carbon intensity pipeline using public electricity carbon intensity data. The project currently focuses on Python ingestion and tests, with planned Snowflake loading and dbt models.
+Building a housing and commuting analytics project using public property sales, EPC and rail data. The project asks how much more home an extra 10 minutes on the train buys a first-time buyer, focusing on the Great Eastern corridor into London Liverpool Street. It will include a tested Python pipeline, Snowflake and dbt models, data quality and record matching checks, and statistical modelling of the relationship between floor space and commute time.
 
 **Recently completed**
 
