@@ -70,7 +70,7 @@ seeking: "Entry-level data roles — London, hybrid preferred"
 
 **Current project**
 
-Building a housing and commuting analytics project using public property sales, EPC and rail data. The project asks how much more home an extra 10 minutes on the train buys a first-time buyer, focusing on the Great Eastern corridor into London Liverpool Street. It will include a tested Python pipeline, Snowflake and dbt models, data quality and record matching checks, and statistical modelling of the relationship between floor space and commute time.
+Investigating which road, time and environmental conditions are associated with fatal or serious injuries in police-reported London collisions involving pedestrians and cyclists. This project uses DfT STATS19 data to develop a reproducible Python and SQL workflow with data-quality checks and statistical modelling. 
 
 **Recently completed**
 
