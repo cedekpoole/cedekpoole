@@ -4,7 +4,7 @@
 
 I'm completing an MSc Data Science at Kingston University after a First-Class BA in Philosophy from Newcastle University.
 
-I primarily work with SQL and Python, and I'm interested in applied data work: cleaning data, writing queries, building small pipelines, checking assumptions and using analysis or modelling to answer meaningful questions.
+I primarily work with SQL and Python and I'm interested in applied data work, like cleaning data, writing queries, building small pipelines, checking assumptions and using analysis or modelling to answer meaningful questions.
 
 My current projects cover data pipelines, dbt models, statistical modelling, data quality checks and public datasets. I also have front-end software development experience, including React and scientific data visualisation work.
 
